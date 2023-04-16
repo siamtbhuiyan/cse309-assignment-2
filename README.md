@@ -1,4 +1,4 @@
-#Assignment 2
+# Assignment 2
 
 1. Create a responsive contact us form.
 2. Send the contact us form's data to database.
